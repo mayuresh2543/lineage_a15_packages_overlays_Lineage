@@ -87,6 +87,19 @@
             <axis tag="slnt" stylevalue="-10"/>
         </font>
     </family>
+    
+    <family customizationType="new-named-family" name="google-sans-clock">
+        <font>GoogleSansFlex-Regular.ttf
+            <axis tag="ROND" stylevalue="100"/>
+        </font>
+    </family>
+
+    <family customizationType="new-named-family" name="google-sans-flex-clock">
+        <font>GoogleSansFlex-Regular.ttf
+            <axis tag="ROND" stylevalue="100"/>
+        </font>
+    </family>
+
     <alias name="google-sans-flex-medium" to="google-sans-flex" weight="500"/>
     <alias name="google-sans-flex-bold" to="google-sans-flex" weight="700"/>
 </fonts-modification>
